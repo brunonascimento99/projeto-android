@@ -57,7 +57,7 @@ header hgroup p {
     padding-right: 10px;
     text-align: center;
     margin: auto;
-    margin-bottom: 15px;
+    padding-bottom: 15px;
     max-width: 37.5em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.404);
 }
@@ -99,7 +99,7 @@ main h1 {
     font-weight: normal;
     font-size: 1.8em;
     border-bottom: solid var(--cor4);
-    display: inline-block;    
+    display: inline-block;
 }
 
 main h2 {
